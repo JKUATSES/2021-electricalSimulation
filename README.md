@@ -14,10 +14,10 @@ This is a tutorial of Electrical Simulation for SES Projects weekly meetings dur
 ![alt text](https://github.com/JKUATSES/2021-electricalSimulation/blob/main/Electrical%20Simulation.png)
 > Project coverphoto
 
-**Thanks to the authors [Chrispine Tinega](https://github.com/tineachris), [Rodney Osodo](https://github.com/0x6f736f646f) and the [JKUAT Society of Engineering Students (SES) Projects Committee](https://github.com/jkuatses).**
+Thanks to the authors [Chrispine Tinega](https://github.com/tineachris), [Rodney Osodo](https://github.com/0x6f736f646f) and the [JKUAT Society of Engineering Students (SES) Projects Committee](https://github.com/jkuatses).
 
 ## Objective
-   Introduce electrical simulation knowledge to learners and enthusiasts to bridge the gap between industry and academia and better prepare them for future projects. 
+   To introduce electrical simulation knowledge to learners and enthusiasts to bridge the gap between industry and academia and better prepare them for future projects. 
 ## Scope
    * Proteus
       > ![proteus](https://user-images.githubusercontent.com/72353423/125945707-75b687d4-656e-43cf-a11b-6c4a0ca857e1.jpg)
